@@ -58,7 +58,9 @@ So for installing of versions below, you need to run commands:
 | 1.10 (lts)              | `brew install tarantool@1.10`                 |
 | 2.5 (stable)            | `brew install tarantool@2.5`                  |
 | 2.6 (stable)            | `brew install tarantool@2.6`                  |
-| 2.7 (beta)              | `brew install tarantool@2.7`                  |
+| 2.7 (stable)            | `brew install tarantool@2.7`                  |
+| 2.8 (stable)            | `brew install tarantool@2.8`                  |
+| 2.10 (beta)             | `brew install tarantool@2.10`                  |
 | _latest stable release_ | `brew install tarantool/tap/tarantool`        |
 | _master_                | `brew install tarantool/tap/tarantool --HEAD` |
 
